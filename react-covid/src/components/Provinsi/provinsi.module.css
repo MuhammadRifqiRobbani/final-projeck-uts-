@@ -1,0 +1,30 @@
+.container {
+    padding: 6, 5rem 1, 5rem;
+    text-align: center;
+}
+
+.provinsi {
+    max-width: 1300px;
+    margin: 0 auto;
+}
+
+.provinsi__body {
+    overflow-x: auto;
+}
+
+.provinsi__table {
+    margin: 1.5rem auto;
+    border-collapse: collapse;
+    border-spacing: 2;
+    width: 100%;
+    heigth: 100%;
+    max-width: 2000px;
+}
+
+.provinsi__table th,
+td {
+    padding: 1, 5rem 1;
+    border-color: #fff;
+    border-style: solid;
+    border-width: 1, 5px;
+}
